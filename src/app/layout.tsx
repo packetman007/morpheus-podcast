@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Morpheus Podcast',
-  description: 'Welcome to the Morpheus Podcast',
+  description: 'A podcast about dreams and their meanings',
 }
 
 export default function RootLayout({
