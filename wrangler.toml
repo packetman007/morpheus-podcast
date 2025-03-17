@@ -1,3 +1,6 @@
 name = "morpheus-podcast"
 compatibility_date = "2024-03-17"
-pages_build_output_dir = "out"  # Change this from .next to out
+pages_build_output_dir = "_static"
+
+[build]
+command = "npm run build"
